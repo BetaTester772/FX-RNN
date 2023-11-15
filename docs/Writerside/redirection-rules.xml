@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="21619b41">
+        <description>Created after removal of "This is the first topic" from Help Instance</description>
+        <accepts>Default-topic.html</accepts>
+    </rule>
+    <rule id="34f80a5c">
+        <description>Created after removal of "How to" from Help Instance</description>
+        <accepts>How-to.html</accepts>
+    </rule>
+    <rule id="62aad8fb">
+        <description>Created after removal of "Reference" from Foreign Exchange RNN</description>
+        <accepts>Reference.html</accepts>
+    </rule>
+    <rule id="30316d08">
+        <description>Created after removal of "Empty MD Topic" from Foreign Exchange RNN</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
+    <rule id="6f250e6e">
+        <description>Created after removal of "How to" from Foreign Exchange RNN</description>
+        <accepts>How-to.html</accepts>
+    </rule>
+    <rule id="2ffe78df">
+        <description>Created after removal of "Overviewasfd" from Foreign Exchange RNN</description>
+        <accepts>Overviewasfd.html</accepts>
+    </rule>
+</rules>
