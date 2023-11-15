@@ -1,4 +1,4 @@
-# Training
+# Model Training
 
 모델 요약 및 fit 관련 정보
 
@@ -12,14 +12,14 @@ Summary
 _________________________________________________________________
  Layer (type)                Output Shape              Param #   
 =================================================================
- simple_rnn_4 (SimpleRNN)    (None, 50, 50)            2600      
- simple_rnn_5 (SimpleRNN)    (None, 50)                5050      
- dense_2 (Dense)             (None, 1)                 51        
+ simple_rnn (SimpleRNN)      (None, 50, 50)            2600                                                      
+ simple_rnn_1 (SimpleRNN)    (None, 50)                5050      
+ dense (Dense)               (None, 1)                 51        
 =================================================================
 Total params: 7701 (30.08 KB)
 Trainable params: 7701 (30.08 KB)
 Non-trainable params: 0 (0.00 Byte)
-_________________________________________________________________
+________________________________________________________________
 ```
 
 Training setting
@@ -56,8 +56,8 @@ Summary
 _________________________________________________________________
  Layer (type)                Output Shape              Param #   
 =================================================================
- lstm_2 (LSTM)               (None, 100)               40800                                                   
- dense_2 (Dense)             (None, 1)                 101                                                      
+ lstm (LSTM)                 (None, 100)               40800     
+ dense (Dense)               (None, 1)                 101                                                                        
 =================================================================
 Total params: 40901 (159.77 KB)
 Trainable params: 40901 (159.77 KB)
@@ -124,9 +124,9 @@ Summary
 _________________________________________________________________
  Layer (type)                Output Shape              Param #   
 =================================================================
- gru_2 (GRU)                 (None, 50, 50)            7950                       
- gru_3 (GRU)                 (None, 50)                15300                   
- dense_1 (Dense)             (None, 1)                 51                      
+ gru (GRU)                   (None, 50, 50)            7950      
+ gru_1 (GRU)                 (None, 50)                15300     
+ dense (Dense)               (None, 1)                 51                                                            
 =================================================================
 Total params: 23301 (91.02 KB)
 Trainable params: 23301 (91.02 KB)
