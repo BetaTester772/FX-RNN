@@ -13,21 +13,24 @@
 
 - simulation.py
 
-<img src="평가-손익.png"  width="600" height="300" alt="평가 손익"/>
+![평가 손익](평가-손익.png)
 
-<img src="누적-평가-손익.png"  width="600" height="300" alt="누적 평가 손익"/>
+![누적 평가 손익](누적-평가-손익.png)
 
 > 총 수익: 49.899999999999636
 
 - simulation_1.py
 
-<img src="평가-손익_1.png"  width="600" height="300" alt="평가 손익"/>
+![평가 손익_1](평가-손익_1.png)
 
-<img src="누적-평가-손익_1.png"  width="600" height="300" alt="누적 평가 손익"/>
+![누적 평가 손익_1](누적-평가-손익_1.png)
 
 > 총 수익: 52.70000000000368
 
 ## result log
+
+* [result 20231117 113428.txt](https://github.com/BetaTester772/FX-RNN/blob/master/result%2020231117%20113428.txt)
+* [result_1 20231117 113426.txt](https://github.com/BetaTester772/FX-RNN/blob/master/result_1%2020231117%20113426.txt)
 
 simulation.py
 :
