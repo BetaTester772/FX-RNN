@@ -11,14 +11,14 @@
 
 ## result
 
-simulation.py
-:
+- simulation.py
 
-![평가-손익](평가-손익.png)
-![누적-평가-손익](누적-평가-손익.png)
+<img src="평가-손익.png"  width="600" height="300" alt="평가 손익"/>
 
-simulation_1.py
-:
+<img src="누적-평가-손익.png"  width="600" height="300" alt="누적 평가 손익"/>
 
-![평가-손익](평가-손익_1.png)
-![누적-평가-손익](누적-평가-손익_1.png)
+- simulation_1.py
+
+<img src="평가-손익_1.png"  width="600" height="300" alt="평가 손익"/>
+
+<img src="누적-평가-손익_1.png"  width="600" height="300" alt="누적 평가 손익"/>
