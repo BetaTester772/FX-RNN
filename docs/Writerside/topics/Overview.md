@@ -21,7 +21,9 @@ RNN 예측 기반 환율 예측 모델을 통해 퀀트 트레이딩을 진행
 
 [KB 통화별 환율 조회: USD - KRW](https://obank.kbstar.com/quics?page=C101422)
 
-[FX_Rate.csv](https://github.com/BetaTester772/FX-RNN/blob/master/FX_Rate.csv)
+[FX_Rate.csv](https://github.com/BetaTester772/FX-RNN/blob/master/FX_Rate.csv) - 2016.12.30 ~ 2023.11.03
+
+[FX_New.csv](https://github.com/BetaTester772/FX-RNN/blob/master/FX_New.csv) - 2023.11.08 ~ 2023.11.15
 
 | Index | Date     | 회차 | 등록시간     | 매매기준율    | 이전대비  | 송금보내실 때  | 송금받으실 때  | 현찰사실 때   | 현찰파실 때   | USD환산율 |
 |-------|----------|----|----------|----------|-------|----------|----------|----------|----------|--------|
