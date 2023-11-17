@@ -13,17 +13,17 @@
 
 - simulation.py
 
-![평가 손익](평가-손익.png)
+![평가 손익](Valuation-profit-and-loss.png)
 
-![누적 평가 손익](누적-평가-손익.png)
+![누적 평가 손익](Cumulative-valuation-profit-and-loss.png)
 
 > 총 수익: 49.899999999999636
 
 - simulation_1.py
 
-![평가 손익_1](평가-손익_1.png)
+![평가 손익_1](Valuation-profit-and-loss_1.png)
 
-![누적 평가 손익_1](누적-평가-손익_1.png)
+![누적 평가 손익_1](Cumulative-valuation-profit-and-loss_1.png)
 
 > 총 수익: 52.70000000000368
 
