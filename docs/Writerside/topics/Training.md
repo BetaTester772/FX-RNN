@@ -27,6 +27,7 @@ Training setting
 * Callbacks: EarlyStopping(monitor='val_loss', patience=3)
 * Loss: Mean_Squared_Error
 * Optimizer: Adam
+* Batch size: 400
 
 History
 :
@@ -70,6 +71,7 @@ Training setting
 * Callbacks: EarlyStopping(monitor='val_loss', patience=3)
 * Loss: Mean_Squared_Error
 * Optimizer: Adam
+* Batch size: 400
 
 History
 :
@@ -139,6 +141,7 @@ Training setting
 * Callbacks: EarlyStopping(monitor='val_loss', patience=3)
 * Loss: Mean_Squared_Error
 * Optimizer: Adam
+* Batch size: 400
 
 History
 :
