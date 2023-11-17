@@ -2,8 +2,8 @@
 
 ## files
 
-- [simulation.py](https://github.com/BetaTester772/FX-RNN/blob/master/simulation.py): 예측 실행 후 시뮬레이션 진행
-- [simulation_1.py](https://github.com/BetaTester772/FX-RNN/blob/master/simulation._1py): 시뮬레이션 진행 중 예측 실행
+- [Simulation.py](https://github.com/BetaTester772/FX-RNN/blob/master/simulation.py): 예측 실행 후 시뮬레이션 진행
+- [Simulation_1.py](https://github.com/BetaTester772/FX-RNN/blob/master/simulation._1py): 시뮬레이션 진행 중 예측 실행
 
 ## How it works
 
@@ -11,7 +11,7 @@
 
 ## result
 
-- simulation.py
+- Simulation.py
 
 ![평가 손익](Valuation-profit-and-loss.png)
 
@@ -32,7 +32,7 @@
 * [result 20231117 113428.txt](https://github.com/BetaTester772/FX-RNN/blob/master/result%2020231117%20113428.txt)
 * [result_1 20231117 113426.txt](https://github.com/BetaTester772/FX-RNN/blob/master/result_1%2020231117%20113426.txt)
 
-simulation.py
+Simulation.py
 :
 ```
 매도: -0.2999999999999545
@@ -1400,7 +1400,7 @@ simulation.py
 총 수익: 49.899999999999636
 ```
 
-simulation_1.py
+Simulation_1.py
 :
 ```
 매도: -0.3999999999998636
