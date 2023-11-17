@@ -2,7 +2,7 @@
 
 모델 요약 및 fit 관련 정보
 
-> 모델과 옵티마이저는 [연구 결과](RNN-model-research.md)를 바탕으로 선정함
+> 모델과 옵티마이저는 [탐색 결과](RNN-model-research.md)를 바탕으로 선정함
 
 ## SimpleRNN Model
 

@@ -30,4 +30,8 @@
         <description>Created after removal of "Overviewasfd" from Foreign Exchange RNN</description>
         <accepts>Overviewasfd.html</accepts>
     </rule>
+    <rule id="11535316">
+        <description>Created after removal of "Reference" from Foreign Exchange RNN</description>
+        <accepts>Reference.html</accepts>
+    </rule>
 </rules>
