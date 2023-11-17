@@ -46,7 +46,7 @@ cumulative_profit = 0
 cumulative_profits = []
 
 results = []
-file = open(f"result{datetime.datetime.now().strftime('%Y%m%d %H%M%S')}", "w")
+file = open(f"result {datetime.datetime.now().strftime('%Y%m%d %H%M%S')}.txt", "w", encoding='utf-8')
 
 for i in range(1, len(predictions)):
     prediction = round(predictions[i][0], 1)

@@ -23,7 +23,7 @@ cumulative_profit = 0
 cumulative_profits = []
 results = []
 
-file = open(f"result{datetime.datetime.now().strftime('%Y%m%d %H%M%S')}", "w")
+file = open(f"result_1 {datetime.datetime.now().strftime('%Y%m%d %H%M%S')}.txt", "w", encoding='utf-8')
 
 for i in range(sequence_length, len(baseRate) - 2):
     # 현재 시퀀스 데이터

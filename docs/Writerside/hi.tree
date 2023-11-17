@@ -7,8 +7,8 @@
                  start-page="Default-topic.md">
 
     <toc-element topic="Overview.md"/>
-    <toc-element topic="Simulation.md"/>
     <toc-element topic="RNN-model-research.md">
     </toc-element>
     <toc-element topic="Trainning.md"/>
+    <toc-element topic="Simulation.md"/>
 </instance-profile>
